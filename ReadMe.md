@@ -9,7 +9,7 @@ I have attempted to come up with a simplified demo on how to use the webrtc lib 
 
 
 
-This demo needs more updates to be perfected , please feel free to contribute to make it work more
+This demo needs more updates to be perfected , please feel free to contribute to make it work more , fork or make a PR to it .
 
 
 
