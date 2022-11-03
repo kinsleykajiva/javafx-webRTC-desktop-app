@@ -5,7 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1dc4fdaa-0149-476f-8076-446e2304e2db" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/africa/jopen/javafxwebrtcdesktopapp/CallManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/africa/jopen/javafxwebrtcdesktopapp/CreateAnswerCallback.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/africa/jopen/javafxwebrtcdesktopapp/CreateOfferCallback.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/africa/jopen/javafxwebrtcdesktopapp/CreatePeerConnectionCallback.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/africa/jopen/javafxwebrtcdesktopapp/Entities/JanusMessageType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/africa/jopen/javafxwebrtcdesktopapp/Entities/PluginHandle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/africa/jopen/javafxwebrtcdesktopapp/Entities/Publisher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/africa/jopen/javafxwebrtcdesktopapp/Entities/Room.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/africa/jopen/javafxwebrtcdesktopapp/Entities/Transaction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/africa/jopen/javafxwebrtcdesktopapp/Entities/VideoItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/africa/jopen/javafxwebrtcdesktopapp/JanusCallback.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/africa/jopen/javafxwebrtcdesktopapp/JanusClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/africa/jopen/javafxwebrtcdesktopapp/JanusPeerConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/africa/jopen/javafxwebrtcdesktopapp/JanusPeerConnection2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/africa/jopen/javafxwebrtcdesktopapp/JanusUtilsFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/africa/jopen/javafxwebrtcdesktopapp/VideoView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/africa/jopen/javafxwebrtcdesktopapp/VideoViewSkin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/africa/jopen/javafxwebrtcdesktopapp/WebRTCUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/africa/jopen/javafxwebrtcdesktopapp/WebSocketChannel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/africa/jopen/javafxwebrtcdesktopapp/XUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/africa/jopen/javafxwebrtcdesktopapp/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/africa/jopen/javafxwebrtcdesktopapp/HelloController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/africa/jopen/javafxwebrtcdesktopapp/hello-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/africa/jopen/javafxwebrtcdesktopapp/hello-view.fxml" afterDir="false" />
     </list>
@@ -17,8 +39,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2H11D8SayH7pDfcesETHgSs4hSJ" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -29,9 +56,44 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "dart.analysis.tool.window.visible": "false",
+    "last_opened_file_path": "/home/variableK/IdeaProjects/javafx-webRTC-desktop-app/javafx-webRTC-desktop-app/src/main/java/africa/jopen/javafxwebrtcdesktopapp",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "show.migrate.to.gradle.popup": "false",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/africa/jopen/javafxwebrtcdesktopapp" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="africa.jopen.javafxwebrtcdesktopapp" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="HelloApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="africa.jopen.javafxwebrtcdesktopapp.HelloApplication" />
+      <module name="javafx-webRTC-desktop-app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="africa.jopen.javafxwebrtcdesktopapp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HelloApplication" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -40,8 +102,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1667437657309</updated>
-      <workItem from="1667437658630" duration="2000" />
+      <workItem from="1667437658630" duration="4774000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>
