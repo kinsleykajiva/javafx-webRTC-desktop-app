@@ -21,7 +21,7 @@ so far this demo has a demo for video room plugin for janus .
 
 java version - jdk/javafx - 17 and above, to avoid issues just use the liberica-17 SDK as i have in this project .
 
-Janus Server url -   `wss://janus.conf.meetecho.com/ws`
+
 
 
 
