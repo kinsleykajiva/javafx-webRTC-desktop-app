@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1dc4fdaa-0149-476f-8076-446e2304e2db" name="Changes" comment="added the whole webrtc code using janus as a media server">
-      <change afterPath="$PROJECT_DIR$/ReadMe.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="1dc4fdaa-0149-476f-8076-446e2304e2db" name="Changes" comment="added the whole webrtc code using janus as a media server" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -80,7 +77,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1667437657309</updated>
-      <workItem from="1667437658630" duration="5518000" />
+      <workItem from="1667437658630" duration="6068000" />
     </task>
     <task id="LOCAL-00001" summary="added the whole webrtc code using janus as a media server">
       <created>1667471444504</created>
@@ -89,7 +86,28 @@
       <option name="project" value="LOCAL" />
       <updated>1667471444504</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added the whole webrtc code using janus as a media server">
+      <created>1667471938043</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1667471938043</updated>
+    </task>
+    <task id="LOCAL-00003" summary="added the whole webrtc code using janus as a media server">
+      <created>1667472017151</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1667472017151</updated>
+    </task>
+    <task id="LOCAL-00004" summary="added the whole webrtc code using janus as a media server">
+      <created>1667472187297</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1667472187297</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
