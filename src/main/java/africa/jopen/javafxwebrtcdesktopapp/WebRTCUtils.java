@@ -22,7 +22,7 @@ import java.util.stream.Collectors;
 
 
 public class WebRTCUtils {
-   public static final String JANUS_URL = "";
+   public static final String JANUS_URL = "ws://public-ip";
     private static  boolean isMediaReady = false;
     private static final Pattern SPLIT = Pattern.compile("\\r?\\n");
     public static RTCSessionDescription setCodecPreference(final RTCSessionDescription sessionDescription,
