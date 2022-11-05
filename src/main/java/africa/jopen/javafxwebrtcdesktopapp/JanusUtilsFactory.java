@@ -220,7 +220,7 @@ public class JanusUtilsFactory {
 
                     @Override
                     public void onSuccess() {
-                        System.out.println("xxxxxxxvvvv setLocalDescription success");
+                        System.out.println(" setLocalDescription success");
 
                     }
 

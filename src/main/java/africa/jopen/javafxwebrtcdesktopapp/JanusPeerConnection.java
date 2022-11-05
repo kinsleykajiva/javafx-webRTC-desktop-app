@@ -65,7 +65,7 @@ public class JanusPeerConnection implements PeerConnectionObserver {
                         // centerRoot.lookup(String.valueOf(videoItem.getUserId()));
                         if (videoView != null) {
                             try {
-                                System.out.println("videoView.getId()vvvvvvvvvvvvvvvvvvvvv " + videoView.getId());
+                                System.out.println("videoView.getId() " + videoView.getId());
                                 frame.retain();
                                 videoView.setVideoFrame(frame);
                                 frame.release();

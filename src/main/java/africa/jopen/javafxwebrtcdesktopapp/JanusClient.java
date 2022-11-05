@@ -344,7 +344,7 @@ public class JanusClient implements WebSocketChannel.WebSocketCallback {
 
     @Override
     public void onMessage(String message) {
-        System.err.println("onMessage kkk 》》》" + message);
+
         try {
             JSONObject obj = new JSONObject(message);
             JanusMessageType type = JanusMessageType.fromString(obj.getString("janus"));
@@ -360,7 +360,7 @@ public class JanusClient implements WebSocketChannel.WebSocketCallback {
             if (sender != null) {
                 handle = attachedPlugins.get(sender);
             }
-            System.err.println("panooo Event type - onMessage:::  " + type);
+            System.out.println(" Event type - onMessage:::  " + type);
             switch (type) {
                 case keepalive:
                     break;

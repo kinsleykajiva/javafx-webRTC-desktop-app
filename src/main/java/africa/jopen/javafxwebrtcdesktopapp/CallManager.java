@@ -53,7 +53,7 @@ public class CallManager {
     }
 
     private void onScreenCapture(DesktopCapturer.Result result, DesktopFrame frame) {
-        System.out.println("detasxxxccccc55555555cc");
+
 
     }
 
